@@ -1,2 +1,2 @@
 # odin-recipes
-barebones website website - HTML
+starter website for recipes using HTML 
